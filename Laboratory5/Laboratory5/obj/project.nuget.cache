@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GJ+9z+ZAetI4Z5ES8M9FrNXyiWcyY0lwfnr+k0f/wAeyxi9Q0oosNofZlzNydtxnk2AW+jELn2hmVvotjJ8W1w==",
+  "dgSpecHash": "giA1y0JLZSOvMtbRWhaxj3fAKCmjedEo3BNeC5puv8W4CmBL3ZVElpa/QobgTgb9+lUp4ogLX8AYgyzdoD07Ng==",
   "success": true,
   "projectFilePath": "D:\\Development\\C#\\Patterns OA\\Laboratory5\\Laboratory5\\Laboratory5\\Laboratory5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mmm20\\.nuget\\packages\\consolemenu-simple\\2.6.1\\consolemenu-simple.2.6.1.nupkg.sha512"
+  ],
   "logs": []
 }

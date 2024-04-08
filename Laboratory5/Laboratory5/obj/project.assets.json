@@ -1,11 +1,39 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ConsoleMenu-simple/2.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ConsoleMenu.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/ConsoleMenu.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConsoleMenu-simple/2.6.1": {
+      "sha512": "qUeUvd5YXM6oBwj2V59gFOQocjynpkbCkmJmso1JJNhRhI1oA+fki3+pOXxKhnlNq9dXiEyD3WV3/KhouT+8Ng==",
+      "type": "package",
+      "path": "consolemenu-simple/2.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "consolemenu-simple.2.6.1.nupkg.sha512",
+        "consolemenu-simple.nuspec",
+        "lib/net6.0/ConsoleMenu.dll",
+        "lib/netstandard1.3/ConsoleMenu.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ConsoleMenu-simple >= 2.6.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mmm20\\.nuget\\packages\\": {}
@@ -45,6 +73,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "ConsoleMenu-simple": {
+            "target": "Package",
+            "version": "[2.6.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
