@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UO7VGONk)
+![image](https://github.com/Ostroh-Academy/05-abstract-factory-keroNight/assets/107807003/478bac25-55e4-4e4a-8535-381d919f7233)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UO7VGONk)
 # Патерн абстрактна фабрика
 
 Потрібно вивчити теоретичний матеріал та написати власноруч приклад коду для патерну абстрактна фабрика.
@@ -7,3 +7,7 @@
 Закомітити код та зробити pull request.
 
 В README файлі навести UML діаграму коду згідно власного варіанту з короткими поясненнями.
+------------------------------------------------------------------------------------------
+У програмі створено систему для будівництва доріг. Було розроблено дві фабрики: одна для асфальтових доріг і одна для грунтових. Коли потрібно побудувати нову дорогу, вибирається фабрика залежно від умов місця. Після цього просто говориться фабриці, яку дорогу побудувати, і вона створює її з вибраним матеріалом покриття.
+
+![image](https://github.com/Ostroh-Academy/05-abstract-factory-keroNight/assets/107807003/833645dc-aa59-47d4-abc3-5a7c962f3388)
