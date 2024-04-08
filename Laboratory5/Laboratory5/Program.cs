@@ -2,6 +2,7 @@
 using Laboratory5.Training.Api;
 using Laboratory5.Training.Factories;
 using Laboratory5.Training.Factories.Api;
+using Laboratory5.Units.Api;
 
 namespace Laboratory5;
 

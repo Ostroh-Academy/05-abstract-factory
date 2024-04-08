@@ -1,4 +1,6 @@
-namespace Laboratory5;
+using Laboratory5.Units.Api;
+
+namespace Laboratory5.Units;
 
 internal sealed class ArtilleryManNato : ArtilleryMan
 {

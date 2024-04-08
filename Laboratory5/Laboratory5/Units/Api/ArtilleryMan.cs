@@ -1,6 +1,4 @@
-using System.Threading.Channels;
-
-namespace Laboratory5;
+namespace Laboratory5.Units.Api;
 
 internal abstract class ArtilleryMan
 {
