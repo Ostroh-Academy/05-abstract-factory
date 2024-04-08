@@ -9,3 +9,4 @@
 Закомітити код та зробити pull request.
 
 
+![image](https://github.com/Ostroh-Academy/05-abstract-factory-havrylchyk/assets/92024271/5fab3918-f540-4920-81ee-517fc8378de4)
