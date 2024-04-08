@@ -2,5 +2,5 @@
 
 public interface IMatrixFactory
 {
-    public abstract IMatrix CreateMatrix(params int[] dimensions);
+    public IMatrix CreateMatrix(params int[] dimensions);
 }
