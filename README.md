@@ -1,11 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UO7VGONk)
-# Патерн абстрактна фабрика
+![image](https://github.com/arthurduzhyy/05-abstract-factory-arthurduzhyy/assets/163334544/59c33c78-276a-4c99-8aa0-21766464f215)
 
-Потрібно вивчити теоретичний матеріал та написати власноруч приклад коду для патерну абстрактна фабрика.
-Закомітити даних приклад та зробити pull request.
-Згідно власного варіанту потрібно описати потрібні класи. Додати до даних класів потрібні, на вашу думку, методи. Варіанти завдань отримати у викладача.
-
-В README файлі навести UML діаграму класів для коду згідно власного варіанту з короткими поясненнями.
-Закомітити код та зробити pull request.
-
-
+[Class](https://github.com/arthurduzhyy/05-abstract-factory-arthurduzhyy/blob/main/Program.cs)
