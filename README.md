@@ -9,3 +9,5 @@
 Закомітити код та зробити pull request.
 
 
+UML діаграма:
+![image](https://github.com/DmytroKovinskyi/05-abstract-factory-DmytroKovinskyi/assets/163335412/c04a98fa-9ce7-4ff8-a185-3d82adc1faeb)
