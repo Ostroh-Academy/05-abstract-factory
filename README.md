@@ -9,3 +9,20 @@
 Закомітити код та зробити pull request.
 
 
+![L5 Game](https://github.com/Ostroh-Academy/05-abstract-factory-AChernii/assets/103105210/aca07b37-1588-4dd3-bcc4-e7c0fea9db6d)
+
+Character - абстрактний клас, що визначає інтерфейс для персонажів гри. Містить поле CharacterType та абстрактний метод Interact().
+
+ShooterCharacter, StrategyCharacter, AdventureCharacter - конкретні реалізації класу Character для різних жанрів ігор.
+
+Weapon - абстрактний клас, що визначає інтерфейс для зброї. Містить поле WeaponType та абстрактний метод UseWeapon().
+
+ShooterWeapon, StrategyWeapon, AdventureWeapon - конкретні реалізації класу Weapon для різних жанрів ігор.
+
+Level - абстрактний клас, що визначає інтерфейс для рівнів гри. Містить поле LevelType та абстрактний метод Render().
+
+ShooterLevel, StrategyLevel, AdventureLevel - конкретні реалізації класу Level для різних жанрів ігор.
+
+GameFactory - абстрактний клас, що визначає інтерфейс для фабрики ігрових елементів. Містить абстрактні методи CreateCharacter(), CreateWeapon() та CreateLevel().
+
+ShooterGameFactory, StrategyGameFactory, AdventureGameFactory - конкретні реалізації класу GameFactory для різних жанрів ігор.
