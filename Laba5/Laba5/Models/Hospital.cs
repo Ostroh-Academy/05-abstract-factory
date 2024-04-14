@@ -2,19 +2,19 @@
 
 public class Hospital
 {
-    private string Structure { get; set; }
-    private int WardsAmount { get; set; }
-    private int DepartmetsAmount { get; set; }
+    private string _structure;
+    private int _wardsAmount;
+    private int _departmetsAmount;
 
     public Hospital(string structure, int wardsAmount, int departmentsAmount)
     {
-        Structure = structure;
-        WardsAmount = wardsAmount;
-        DepartmetsAmount = departmentsAmount;
+        _structure = structure;
+        _wardsAmount = wardsAmount;
+        _departmetsAmount = departmentsAmount;
     }
 
     public override string ToString()
     {
-        return $"Hospital consists of {Structure} has {WardsAmount} wards and {DepartmetsAmount} departments.";
+        return $"Hospital consists of {_structure} has {_wardsAmount} wards and {_departmetsAmount} departments.";
     }
 }
