@@ -1,0 +1,15 @@
+/Users/viktoria/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5
+/Users/viktoria/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.deps.json
+/Users/viktoria/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.runtimeconfig.json
+/Users/viktoria/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.dll
+/Users/viktoria/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.pdb
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.csproj.AssemblyReference.cache
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.AssemblyInfoInputs.cache
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.AssemblyInfo.cs
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.csproj.CoreCompileInputs.cache
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.dll
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/refint/lab_5.dll
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.pdb
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.genruntimeconfig.cache
+/Users/viktoria/Projects/lab_5/lab_5/obj/Debug/net7.0/ref/lab_5.dll
