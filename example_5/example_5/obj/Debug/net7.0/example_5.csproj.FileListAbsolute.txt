@@ -1,0 +1,15 @@
+/Users/viktoria/Projects/example_5/example_5/bin/Debug/net7.0/example_5
+/Users/viktoria/Projects/example_5/example_5/bin/Debug/net7.0/example_5.deps.json
+/Users/viktoria/Projects/example_5/example_5/bin/Debug/net7.0/example_5.runtimeconfig.json
+/Users/viktoria/Projects/example_5/example_5/bin/Debug/net7.0/example_5.dll
+/Users/viktoria/Projects/example_5/example_5/bin/Debug/net7.0/example_5.pdb
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.csproj.AssemblyReference.cache
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.AssemblyInfoInputs.cache
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.AssemblyInfo.cs
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.csproj.CoreCompileInputs.cache
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.dll
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/refint/example_5.dll
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.pdb
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/example_5.genruntimeconfig.cache
+/Users/viktoria/Projects/example_5/example_5/obj/Debug/net7.0/ref/example_5.dll
