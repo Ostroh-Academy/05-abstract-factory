@@ -1,0 +1,14 @@
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\bin\Debug\net8.0\lab5_pattern.exe
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\bin\Debug\net8.0\lab5_pattern.deps.json
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\bin\Debug\net8.0\lab5_pattern.runtimeconfig.json
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\bin\Debug\net8.0\lab5_pattern.dll
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\bin\Debug\net8.0\lab5_pattern.pdb
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.AssemblyInfoInputs.cache
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.AssemblyInfo.cs
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.csproj.CoreCompileInputs.cache
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.dll
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\refint\lab5_pattern.dll
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.pdb
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\lab5_pattern.genruntimeconfig.cache
+C:\Users\gorasima\source\repos\lab5_pattern\lab5_pattern\obj\Debug\net8.0\ref\lab5_pattern.dll
